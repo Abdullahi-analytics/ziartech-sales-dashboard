@@ -1,6 +1,6 @@
 # 📊 Ziartech Sales Dashboard
 
-![Ziartech Sales Dashboard](Ziartech-sales-banner.png)
+![Ziartech Sales Dashboard](file_000000009c0c71f4b53cca4....png)
 
 > An interactive Power BI Sales Analytics Dashboard that provides comprehensive insights into revenue, sales performance, customer behavior, and business trends, empowering data-driven decision-making.
 
@@ -145,13 +145,6 @@ ziartech-sales-dashboard/
 - Business Intelligence
 - Sales Analytics
 - Trend Analysis
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file from this repository.
-2. Open it using Microsoft Power BI Desktop.
-3. Explore the interactive dashboard.
-4. Apply filters to analyze sales performance across different dimensions.
 
 ## 👨‍💻 Author
 
