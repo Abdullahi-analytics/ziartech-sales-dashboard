@@ -1,6 +1,6 @@
 # 📊 Ziartech Sales Dashboard
 
-![Ziartech Sales Dashboard](file_000000009c0c71f4b53cca4cec06479e.png
+![Ziartech Sales Dashboard](file_000000009c0c71f4b53cca4cec06479e.png)
 
 > An interactive Power BI Sales Analytics Dashboard that provides comprehensive insights into revenue, sales performance, customer behavior, and business trends, empowering data-driven decision-making.
 
